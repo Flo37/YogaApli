@@ -50,7 +50,7 @@ class Exercice {
                 this.seconds--;
                 this.run()
             }
-        }, 100)
+        }, 1000)
 
         return main.innerHTML =
             `
